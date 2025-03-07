@@ -1,5 +1,3 @@
-import { DataTypes, Model, Optional } from "sequelize";
-import sequelize from "../config/db";
 import User from "./User";
 
 // Define attributes for Task model
